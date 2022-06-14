@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/catvsdog/MainActivity.java
+ com.example.catvsdog.MainActivity
+com/example/catvsdog/BuildConfig.java
+ com.example.catvsdog.BuildConfig
